@@ -19,6 +19,7 @@
 |-------------------------------------------------------------------------------|-----------------|---------------|------------|-------------------------------------------------------------------------------------------------------------|
 | [DevOpsDays Goiânia](https://devopsdays.org/events/2024-goiania/welcome/)     | 6 de abril      | Goiânia, GO   | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-goiania-2024/)                                               |
 | [DevOpsDays Aracaju](https://devopsdays.org/events/2024-aracaju/welcome/)     | 20 de abril     | Aracaju, SE   | DevOps     | [Aqui](https://www.papercall.io/dodaju2024)                                                                 |
+| [Brazil Mentioned](https://www.brazilmentioned.com/)     | 9 de maio      | São Paulo, SP   | General     | -                                               |
 | [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio      | São Paulo, SP | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-sao-paulo-2024/)                                             |
 | [PHP Velho Oeste 2024](http://phpvelhoeste.com.br/2024/)                      | 17 e 18 de maio | Chapecó, SC   | PHP        | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLScfmbllH-bzTbfCieKxKXSiBBGZketb4cQN2DkM5d1-LdiLMQ/viewform) |
 | [Codecon Summit](https://eventos.codecon.dev/codecon-summit-24/)     | 6 e 7 de setembro      | Joinville, SC   | Dev     | [Aqui](https://eventos.codecon.dev/codecon-summit-24/)                                               |
@@ -67,7 +68,7 @@
 
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- |
-| [birobirobiro](https://www.twitch.tv/birobirobiro) | Front-end Developer & Developer Instructor na Rocketseat. Crio conteúdos nas redes sociais e faço lives na Twitch desenvolvendo projetos pessoais e desafios da comunidade dev.  |
+| [birobirobiro](https://www.twitch.tv/birobirobiro) | Front-end Developer. Crio conteúdos nas redes sociais e faço lives na Twitch desenvolvendo projetos pessoais e desafios da comunidade dev.  |
 | [Código Falado](https://www.twitch.tv/codigofalado) | Código Falado é o primeiro Twitch Partner de Live Coding do Brasil! Somos uma comunidade onde todo mundo é Dev JUNIOR. Criaremos projetos ao vivo do zero à publicação, passando por todas as etapas. Programando, aprendendo e errando juntos!    |
 | [Daniel He4rt](https://www.twitch.tv/danielhe4rt) | Desenvolvedor com alguns anos de experiência desenvolvendo aplicações com PHP e Laravel. No tempo livre, streamer com conteúdo sobre programação e criador/mentor do projeto He4rt Developers, uma comunidade de devs que incita novos programadores a ensinar e colaborar em projetos abertos.    |
 | [Pachi Codes](https://www.twitch.tv/pachicodes) | Moça de DevRel e co-fundadora da @feministech 💌    |
